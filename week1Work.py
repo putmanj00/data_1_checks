@@ -1,4 +1,3 @@
-import json
 # print hello world
 print("Hello World!\n")
 
@@ -35,4 +34,4 @@ print(f"The scientific name for pineapple weed is: {plantScientificName}\n")
 
 # a tuple with 4 values. Print one of them.
 tuple1 = ("One", 2, {"three": 3.4, "four": 4}, ['five', 6, 'seven'])
-print(f"The fourth value of the tuple is: {tuple1[3]}\nand the third value of that list is: {tuple1[3][2]}")
+print(f"The fourth value of the tuple is: {tuple1[3]} and the third value of that list is: {tuple1[3][2]}")
